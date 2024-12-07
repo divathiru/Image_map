@@ -25,6 +25,7 @@ Execute the programs and publish them.
 
 # CODE
 imagemap.html
+~~~
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -156,9 +157,9 @@ imagemap.html
     </footer>
 </body>
 </html>
-
+~~~
 tamilnadu.html
-
+~~~
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -360,7 +361,8 @@ footer a:hover {
     </footer>
 </body>
 </html>
-
+~~~
+~~~
 chennai.html
 
 <!DOCTYPE html>
@@ -531,7 +533,8 @@ chennai.html
     </footer>
 </body>
 </html>
-
+~~~
+~~~
 Coimbatore.html
 
 <!DOCTYPE html>
@@ -660,7 +663,8 @@ Coimbatore.html
     </footer>
 </body>
 </html>
-
+~~~
+~~~
 Thanjavur.html
 
 <!DOCTYPE html>
@@ -839,7 +843,8 @@ Thanjavur.html
     <footer>&copy; 2024 Explore Thanjavur. All Rights Reserved.</footer>
 </body>
 </html>
-
+~~~
+~~~
 Bangalore.html
 
 <!DOCTYPE html>
@@ -1000,7 +1005,7 @@ Bangalore.html
     </footer>
 </body>
 </html>
-
+~~~
 # OUTPUT
 ![Screenshot 2024-12-06 211218](https://github.com/user-attachments/assets/fd4e2507-73c1-4c90-8f7e-737bfedfbe98)
 
